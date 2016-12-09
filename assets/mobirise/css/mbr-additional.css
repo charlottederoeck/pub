@@ -1,8 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-
 
 
 
@@ -480,13 +478,6 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
-#header1-1 .mbr-section-title {
+#header1-2 .mbr-section-lead {
   text-align: center;
-  font-family: 'Lato', sans-serif;
-  color: #2d2727;
-}
-#header1-1 .mbr-section-title SPAN {
-  color: #ffffff;
-  text-align: left;
-  font-size: 60px;
 }
