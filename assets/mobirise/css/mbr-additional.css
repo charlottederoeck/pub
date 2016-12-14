@@ -1,7 +1,19 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -480,13 +492,69 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
-#header1-1 .mbr-section-title {
+#header1-2 .mbr-section-lead {
   text-align: center;
-  font-family: 'Lato', sans-serif;
-  color: #2d2727;
+  font-family: 'Lora', serif;
+  font-size: 24px;
 }
-#header1-1 .mbr-section-title SPAN {
+#header1-2 .mbr-section-title {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+#header3-8 .mbr-section-title,
+#header3-8 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-8 H3 {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+#content6-5 P {
+  font-family: 'Lora', serif;
+  font-size: 15px;
+}
+#header3-7 .mbr-section-title,
+#header3-7 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-7 H3 {
+  text-align: right;
   color: #ffffff;
-  text-align: left;
-  font-size: 60px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+#gallery2-6 .mbr-gallery-item > div > span P {
+  font-family: 'Lora', serif;
+  font-size: 15px;
+}
+#content1-9 P {
+  font-family: 'Lora', serif;
+  font-size: 15px;
+  color: #ffffff;
+}
+#msg-box5-b H3 {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+#msg-box5-b P {
+  font-family: 'Lora', serif;
+  font-size: 15px;
+}
+#features1-c .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
+#features1-c .mbr-cards-col:nth-child(odd) .card-title SPAN {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+#features1-c .mbr-cards-col:nth-child(odd) .card-text {
+  font-family: 'Lora', serif;
+  font-size: 15px;
+}
+#features1-c .mbr-cards-col:nth-child(even) .card-title {
+  color: #ffffff;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+#features1-c .mbr-cards-col:nth-child(even) .card-subtitle {
+  color: #c1c1c1;
+}
+#features1-c .mbr-cards-col:nth-child(even) .card-text {
+  color: #ffffff;
+  font-family: 'Lora', serif;
+  font-size: 15px;
 }
